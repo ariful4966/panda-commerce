@@ -19,3 +19,20 @@
     cursor: pointer;
     box-sizing: border-box;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.single-catagory{
+    padding: 10px 30px;
+    color:white;
+    border-radius: 10px;
+}
+.single-catagory img{
+    width:100px;
+}
